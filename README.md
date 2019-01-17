@@ -24,13 +24,15 @@ If you know how to make a pull request to contribute a fix, please write the cor
 <!--- # Reading this book --->
 <p dir='rtl' align='right'>
   
-لقراءة هذا الكتاب, انظر [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc). اضغط على كل فصل للقراءة بالمتصفح.  خلاف ذلك أختر الكتاب الرقمي PDFs من الكتاب 
+لقراءة هذا الكتاب, انظر [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc).
+اضغط على كل فصل للقراءة بالمتصفح.  خلاف ذلك أختر الكتاب الرقمي من الكتاب 
 </p>
+
 <!---
 To read this book, see [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. Other parties may choose to release PDFs of the book online.
 --->
 
-## الفصول
+## <h2 dir='rtl' align='right'>الفصول</h2>
 <div dir='rtl' align='right'>
   
 + الفصل 1: [المقدمة](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)
