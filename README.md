@@ -14,7 +14,7 @@ If you know how to make a pull request to contribute a fix, please write the cor
 
 To read this book, see [book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. Other parties may choose to release PDFs of the book online.
 
-## Chapters
+## الفصول
 
 + Chapter 1: '[Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc)'
 + Chapter 2: '[How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)'
